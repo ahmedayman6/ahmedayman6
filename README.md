@@ -20,6 +20,9 @@
 ✨ Passionate about **UI/UX**, modern web experiences, and clean design.
 
 ---
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/ahmedayman179) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmed.ayman.saad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedayman12/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Lonely_Assistant5814/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
 ## 🚀 Tools & Technologies
 
@@ -44,4 +47,3 @@ class About extends Me {
     "Tools" : { "Git", "Vscode" }
   };
 }
-
